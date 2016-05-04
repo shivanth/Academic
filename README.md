@@ -1,0 +1,1 @@
+The implementation of junction tree algorithm, with message passing
